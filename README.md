@@ -1,3 +1,4 @@
 # Tiny-Man-Injector
-Join my discord if you need any support : https://discord.gg/GJyCPuR
-Build with debug not release for using NtCreateThreadEX
+Discord: Tiny Man#0200
+Discord: Tiny Man#9899
+Join my discord if you need any support : https://discord.gg/MKxrtessSF
